@@ -1,0 +1,123 @@
+﻿.ax_default {
+  font-family:"Arial", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  letter-spacing:normal;
+  color:#333333;
+  vertical-align:none;
+  text-align:center;
+  line-height:normal;
+  text-transform:none;
+}
+.shape {
+}
+.box_1 {
+}
+.box_2 {
+}
+.box_3 {
+}
+.ellipse {
+}
+.image {
+}
+.primary_button {
+  color:#FFFFFF;
+}
+.placeholder {
+}
+.button {
+}
+.primary_button1 {
+  color:#FFFFFF;
+}
+.heading_1 {
+  font-family:"Arial", sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.heading_2 {
+  font-family:"Arial", sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+.heading_3 {
+  font-family:"Arial", sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+.heading_4 {
+  font-family:"Arial", sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+.heading_5 {
+  font-family:"Arial", sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  text-align:left;
+}
+.heading_6 {
+  font-family:"Arial", sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:10px;
+  text-align:left;
+}
+.icon {
+}
+.paragraph {
+  text-align:left;
+}
+.form_hint {
+  color:#999999;
+}
+.form_disabled {
+}
+.text_field {
+  text-align:left;
+}
+.text_area {
+  text-align:left;
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.list_box {
+  color:#000000;
+  text-align:left;
+}
+.flow_shape {
+}
+.line {
+}
+.connector {
+}
+.text_field1 {
+  color:#000000;
+  text-align:left;
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+.line1 {
+}
+.text_area1 {
+  color:#000000;
+  text-align:left;
+}
+.checkbox {
+  text-align:left;
+}
+textarea, select, input, button { outline: none; }
